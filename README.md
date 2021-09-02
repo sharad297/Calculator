@@ -10,4 +10,4 @@ MADE for Challange1 under DevelopersDay 5 week long Bootcamp + Hackathon.
 Client: HTML, CSS, JAVASCRIPT
 ## Demo
 
-sharad297.github.io
+https://sharad297.github.io/Calculator/
